@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Ch3_Operator" isTestSource="false" packagePrefix="net.hw.javajungsuk" />
       <sourceFolder url="file://$MODULE_DIR$/Ch4_ControlStatement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch5_Array" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
