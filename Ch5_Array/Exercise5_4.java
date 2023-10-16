@@ -13,7 +13,6 @@ public class Exercise5_4 {
 
         int total = 0;
         float avg = 0;
-        System.out.println(arr.length);
 
         // arr[행][열].length 대괄호를 입력하지 않을 때 행의 갯수를 리턴
         // i행의 j열부터 total에 대입
