@@ -1,4 +1,4 @@
-// 주어진 배열을 시계방향으로 90도 회전시켜서 출력하는 프로그램 
+// 주어진 배열을 시계방향으로 90도 회전시켜서 출력하는 프로그램
 public class Exercise5_9 {
     public static void main(String[] args) {
         // 2차원 배열 정의
