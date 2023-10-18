@@ -1,4 +1,4 @@
-// 알파벳과 숫자를 주어진 배열로 암호화하는 프로그램
+// 알파벳과 숫자를 주어진 배열로 암호화하는 프로그램 
 
 public class Exercise5_10 {
     public static void main(String[] args) {
