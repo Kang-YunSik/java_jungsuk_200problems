@@ -17,6 +17,6 @@ public class Exercise6_24 {
         // abs() 호출
         System.out.println(abs(value)); // 5
         System.out.println(abs(value2)); // 10
-        System.out.println(abs(value3)); // 오류: String 타입은 매개변수로 받을 수 없음
+//        System.out.println(abs(value3)); // 오류: String 타입은 매개변수로 받을 수 없음
     }
 }
